@@ -1,6 +1,6 @@
 
 # Hola, soy Francisco Bonilla
-
+<img align="right" width="300" height="300" src="https://github.com/fbonilla02/fbonilla02/blob/main/avatar.png?raw=true">
 
 Actualmente me encuentro aprendiendo FrondEnd (HTML, CSS Y JS) Me encuentro interesado en aprender MERN (MongoDB, Express, React y Node)
 
