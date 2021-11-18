@@ -1,6 +1,7 @@
 
 # Hola, soy Francisco Bonilla
 
+
 Actualmente me encuentro aprendiendo FrondEnd (HTML, CSS Y JS) Me encuentro interesado en aprender MERN (MongoDB, Express, React y Node)
 
 ## Sobre mi
@@ -10,6 +11,8 @@ Actualmente me encuentro aprendiendo FrondEnd (HTML, CSS Y JS) Me encuentro inte
 - :earth_americas: Soy de Colombia
 - 📚 Estoy aprendiendo la parte de CSS y JS
 
+
+#### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
