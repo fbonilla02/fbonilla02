@@ -6,8 +6,7 @@
 
 
 Soy desarrollador Frontend interesado en MERN (MongoDB, Express, React y Node).
-Actualmente me encuentro haciendo la Escuela de desarrollo web en Platzi y dedico gran parte de mí día a día en nunca parar de aprender!
-
+Actualmente me encuentro haciendo la Escuela de desarrollo web en Platzi y dedico gran parte de mí día a día en nunca parar de aprender!  
 Estoy interesado en la web3.0, Blockchain y hablar ingles como mi segundo idioma.
 
 Me gusta leer mangas y artículos de tecnología, amante de los videojuegos y él anime.
