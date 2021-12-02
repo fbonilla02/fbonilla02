@@ -2,15 +2,18 @@
 # Hola, soy Francisco Bonilla
 <img align="right" width="300" height="300" src="https://github.com/fbonilla02/fbonilla02/blob/main/avatar.png?raw=true">
 
-Actualmente me encuentro aprendiendo FrondEnd (HTML, CSS Y JS) Me encuentro interesado en aprender MERN (MongoDB, Express, React y Node)
-
 ## Sobre mi
 
-🎮 Gaming | 📚 Learning
 
-- :earth_americas: Soy de Colombia
-- 📚 Estoy aprendiendo la parte de CSS y JS
+Soy desarrollador Frontend interesado en MERN (MongoDB, Express, React y Node).
+Actualmente me encuentro haciendo la Escuela de desarrollo web en Platzi y dedico gran parte de mí día a día en nunca parar de aprender!
+Estoy interesado en la web3.0, Blockchain y hablar ingles como mi segundo idioma.
 
+Me gusta leer mangas y artículos de tecnología, amante de los videojuegos y él anime.
+
+### Contactame
+[![LinkedIn](https://img.shields.io/badge/fbonilla-black?style=flat&logo=linkedin&link=https://www.linkedin.com/in/fbonillac/)](https://www.linkedin.com/in/fbonillac/)
+[![Gmail](https://img.shields.io/badge/-franciscobonillac@gmail.com-black?style=flat-square&logo=Gmail)](mailto:franciscobonillac@gmail.com)
 
 #### Languages
 
