@@ -1,6 +1,5 @@
 
 # Hola, soy Francisco Bonilla
-<img align="right" width="300" height="300" src="https://github.com/fbonilla02/fbonilla02/blob/main/avatar.png?raw=true">
 
 ## Sobre mi
 
